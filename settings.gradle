@@ -1,0 +1,2 @@
+include ':app', ':commentview'
+rootProject.name='WidgetTest'

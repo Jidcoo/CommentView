@@ -1,0 +1,84 @@
+{
+  "comments": [
+    {
+      "id": 14,
+      "fid": 1593698826445,
+      "posterName": "水哥",
+      "comment": "Spring源码看完没有……",
+      "date": 1593698826445,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "id": 13,
+      "fid": 1593698694541,
+      "posterName": "Yool",
+      "comment": "HR问你怎么证明你很牛？",
+      "date": 1593698694541,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [
+        {
+          "id": 5,
+          "kid": 1593698694541,
+          "replierName": "Java",
+          "reply": "你和他说：JVM是我写的",
+          "date": 1593742855036,
+          "prizes": 0,
+          "pid": 0
+        }
+      ],
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalDataSize": 1,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "id": 12,
+      "fid": 1593698453866,
+      "posterName": "PHP",
+      "comment": "PHP是全世界最好的语言",
+      "date": 1593698453866,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "id": 11,
+      "fid": 1593698425154,
+      "posterName": "Go",
+      "comment": "这篇文章写的挺好的",
+      "date": 1593698425154,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    }
+  ],
+  "currentPage": 2,
+  "totalPages": 3,
+  "totalDataSize": 10,
+  "pageSize": 4,
+  "nextPage": 3,
+  "prefPage": 1
+}

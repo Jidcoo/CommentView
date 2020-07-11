@@ -1,0 +1,43 @@
+{
+  "comments": [
+    {
+      "id": 0,
+      "fid": 0,
+      "date": 0,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [
+        {
+          "id": 10,
+          "kid": 1593698204483,
+          "replierName": "Java",
+          "reply": "Java不香吗？",
+          "date": 1593743708231,
+          "prizes": 0,
+          "pid": 0
+        },
+        {
+          "id": 11,
+          "kid": 1593698204483,
+          "replierName": "C++",
+          "reply": "C++是世界上最好的语言，不接受反驳！",
+          "date": 1593743764549,
+          "prizes": 0,
+          "pid": 10
+        }
+      ],
+      "currentPage": 2,
+      "totalPages": 3,
+      "totalDataSize": 5,
+      "pageSize": 2,
+      "nextPage": 3,
+      "prefPage": 1
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 0,
+  "totalDataSize": 0,
+  "pageSize": 0,
+  "nextPage": 0,
+  "prefPage": 0
+}

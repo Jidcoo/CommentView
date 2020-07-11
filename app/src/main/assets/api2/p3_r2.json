@@ -1,0 +1,24 @@
+﻿{
+  "comments": [
+    {
+      "replies": [
+        {
+          "replierName": "PHP",
+          "data": "这不是我PHP的口头禅吗？"
+        }
+      ],
+      "currentPage": 3,
+      "totalPages": 3,
+      "totalDataSize": 5,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 2
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 0,
+  "totalDataSize": 0,
+  "pageSize": 0,
+  "nextPage": 0,
+  "prefPage": 0
+}

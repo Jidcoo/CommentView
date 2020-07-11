@@ -1,0 +1,59 @@
+﻿{
+  "comments": [
+    {
+      "posterName": "水哥",
+      "data": "Spring源码看完没有……",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "Yool",
+      "data": "HR问你怎么证明你很牛？",
+      "replies": [
+        {
+          "replierName": "Java",
+          "data": "你和他说：JVM是我写的"
+        }
+      ],
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalDataSize": 1,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "PHP",
+      "data": "PHP是全世界最好的语言",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "Go",
+      "data": "这篇文章写的挺好的",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    }
+  ],
+  "currentPage": 2,
+  "totalPages": 3,
+  "totalDataSize": 10,
+  "pageSize": 4,
+  "nextPage": 3,
+  "prefPage": 1
+}

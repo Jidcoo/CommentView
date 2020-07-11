@@ -1,0 +1,99 @@
+﻿{
+  "comments": [
+    {
+      "posterName": "Rust",
+      "data": "就这？不会吧。不会吧？",
+      "replies": [
+        {
+          "replierName": "Java",
+          "data": "没错，就这……"
+        },
+        {
+          "replierName": "Rust",
+          "data": "我看过你写的文章，太棒了"
+        }
+      ],
+      "currentPage": 1,
+      "totalPages": 2,
+      "totalDataSize": 4,
+      "pageSize": 2,
+      "nextPage": 2,
+      "prefPage": 0
+    },
+    {
+      "posterName": "看我发量",
+      "data": "少壮不努力，长大做IT。",
+      "replies": [
+        {
+          "replierName": "PHP",
+          "data": "同样9年义务教育，为什么你如此秀"
+        },
+        {
+          "replierName": "水哥",
+          "data": "这边砖厂招人，明天来上班吧"
+        }
+      ],
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalDataSize": 2,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "Python",
+      "data": "学完python之后就飞了",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "Rust",
+      "data": "日常打卡",
+      "replies": [
+        {
+          "replierName": "小助手",
+          "data": "我看到你昨天没打卡耶"
+        }
+      ],
+      "currentPage": 1,
+      "totalPages": 1,
+      "totalDataSize": 1,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "ACC坐骑",
+      "data": "有类型的代码吗",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    },
+    {
+      "posterName": "安卓菜鸟",
+      "data": "有用过JetPack的没？交流交流",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 3,
+  "totalDataSize": 10,
+  "pageSize": 4,
+  "nextPage": 2,
+  "prefPage": 0
+}

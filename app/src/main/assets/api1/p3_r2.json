@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "id": 0,
+      "fid": 0,
+      "date": 0,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [
+        {
+          "id": 13,
+          "kid": 1593698204483,
+          "replierName": "PHP",
+          "reply": "这不是我PHP的口头禅吗？",
+          "date": 1593744004615,
+          "prizes": 0,
+          "pid": 11
+        }
+      ],
+      "currentPage": 3,
+      "totalPages": 3,
+      "totalDataSize": 5,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 2
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 0,
+  "totalDataSize": 0,
+  "pageSize": 0,
+  "nextPage": 0,
+  "prefPage": 0
+}

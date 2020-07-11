@@ -1,0 +1,43 @@
+﻿{
+  "comments": [
+    {
+      "id": 0,
+      "fid": 0,
+      "date": 0,
+      "prizes": 0,
+      "pid": 0,
+      "replies": [
+        {
+          "id": 3,
+          "kid": 1593699394031,
+          "replierName": "C++",
+          "reply": "大佬，带我上车",
+          "date": 1593742664651,
+          "prizes": 0,
+          "pid": 1
+        },
+        {
+          "id": 4,
+          "kid": 1593699394031,
+          "replierName": "C",
+          "reply": "我带你去搬砖好吧？",
+          "date": 1593742710247,
+          "prizes": 0,
+          "pid": 3
+        }
+      ],
+      "currentPage": 2,
+      "totalPages": 2,
+      "totalDataSize": 4,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 1
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 0,
+  "totalDataSize": 0,
+  "pageSize": 0,
+  "nextPage": 0,
+  "prefPage": 0
+}

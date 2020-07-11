@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="clickCallback"></item>
+    <item type="id" name="clickGPosition"></item>
+    <item type="id" name="clickCPosition"></item>
+    <item type="id" name="viewTag"></item>
+    <item type="id" name="viewTag_child_1"></item>
+    <item type="id" name="viewTag_child_2"></item>
+    <item type="id" name="dividerTag"></item>
+    <item type="id" name="reply_rootView"></item>
+</resources>

@@ -1,0 +1,41 @@
+﻿{
+  "comments": [
+    {
+      "posterName": "C++",
+      "data": "我是写C++的，STL用的贼6,hh。",
+      "replies": [
+        {
+          "replierName": "PHP",
+          "data": "STL是什么？没学过C++。"
+        },
+        {
+          "replierName": "Python",
+          "data": "就是C++的标准模板库呀，楼主精通STL，大佬大佬"
+        }
+      ],
+      "currentPage": 1,
+      "totalPages": 3,
+      "totalDataSize": 5,
+      "pageSize": 2,
+      "nextPage": 2,
+      "prefPage": 0
+    },
+    {
+      "posterName": "Java",
+      "data": "大家好，我是Java开发者",
+      "replies": [],
+      "currentPage": 1,
+      "totalPages": 0,
+      "totalDataSize": 0,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 0
+    }
+  ],
+  "currentPage": 3,
+  "totalPages": 3,
+  "totalDataSize": 10,
+  "pageSize": 4,
+  "nextPage": 0,
+  "prefPage": 2
+}

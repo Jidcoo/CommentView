@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/reply_rootView"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="2dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/right"
+            android:layout_alignBottom="@id/right"
+            android:layout_marginLeft="52dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:background="#c3c8cb" />
+
+
+        <RelativeLayout
+            android:id="@+id/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="14dp"
+            android:layout_marginBottom="4dp"
+            android:layout_toRightOf="@id/line">
+
+
+            <TextView
+                android:id="@+id/user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:textColor="#666666"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:id="@+id/comment_item_like"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="30dp"
+                android:padding="3dp"
+                android:src="@drawable/pxjh"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/prizes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:textColor="#666666"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginTop="18dp"
+                android:textColor="#1C1C1C" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+</LinearLayout>

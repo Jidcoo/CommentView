@@ -1,0 +1,28 @@
+﻿{
+  "comments": [
+    {
+      "replies": [
+        {
+          "replierName": "C++",
+          "data": "大佬，带我上车"
+        },
+        {
+          "replierName": "C",
+          "data": "我带你去搬砖好吧？"
+        }
+      ],
+      "currentPage": 2,
+      "totalPages": 2,
+      "totalDataSize": 4,
+      "pageSize": 2,
+      "nextPage": 0,
+      "prefPage": 1
+    }
+  ],
+  "currentPage": 1,
+  "totalPages": 0,
+  "totalDataSize": 0,
+  "pageSize": 0,
+  "nextPage": 0,
+  "prefPage": 0
+}
