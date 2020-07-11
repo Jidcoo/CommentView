@@ -1,4 +1,4 @@
-# CommenrView
+# CommentView
 简洁、高效、可自定义的开源的Android评论控件---CommentView
 
 ## 控件的使用
@@ -133,13 +133,13 @@ commentView.addHeaderView(你的错误视图，是否响应点击事件);
 **并且初始化回调的工作必须要在loadComplete()方法调用之前（即首次加载数据之前）完成，否则控件将无法正常使用。**
 
 支持的回调:
-1、CustomCommentItemCallback：自定义评论布局回调
-2、CustomReplyItemCallback：自定义回复布局回调
-3、OnPullRefreshCallback：上拉刷新回调
-4、OnCommentLoadMoreCallback：下拉加载更多评论回调
-5、OnReplyLoadMoreCallback：加载更多回复回调
-6、OnItemClickCallback：Item的点击事件回调
-7、OnScrollCallback：控件滚动事件回调
+<p>1、CustomCommentItemCallback：自定义评论布局回调</p>
+<p>2、CustomReplyItemCallback：自定义回复布局回调</p>
+<p>3、OnPullRefreshCallback：上拉刷新回调</p>
+<p>4、OnCommentLoadMoreCallback：下拉加载更多评论回调</p>
+<p>5、OnReplyLoadMoreCallback：加载更多回复回调</p>
+<p>6、OnItemClickCallback：Item的点击事件回调</p>
+<p>7、OnScrollCallback：控件滚动事件回调</p>
 
 当需要设置回调时：
 
